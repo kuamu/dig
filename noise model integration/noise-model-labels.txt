@@ -1,0 +1,4 @@
+0 fist
+1 joint
+2 palm
+3 배경 소음
